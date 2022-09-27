@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This is just a test
