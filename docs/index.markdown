@@ -5,4 +5,4 @@
 layout: home
 ---
 
-This is just a test
+Page under maintenance
