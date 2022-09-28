@@ -25,15 +25,15 @@ Final Year Project: Developed a Secure R&D Portal for UniKL
 
 # Publications
 
-1.	Abu Talib, N. A., & Doh, K. G. (2021). Assessment of dynamic open-source cross-site scripting filters for web application. KSII Transactions on Internet and Information Systems, 15(10), 3750–3770. <https://doi.org/10.3837/tiis.2021.10.015>.
+1.	Abu Talib, N. A., & Doh, K. G. (2021). Assessment of dynamic open-source cross-site scripting filters for web application. KSII Transactions on Internet and Information Systems, 15(10), 3750–3770. <https://doi.org/10.3837/tiis.2021.10.015>.<br />
 (SCIE Indexed Journal)
 
-2.	Abu Talib, N. A., & Doh, K. G. (2021). Static Analysis Tools Against Cross-site Scripting Vulnerabilities in Web Applications: An Analysis. Journal of Software Assessment and Valuation, 17(2), 125–142. <https://doi.org/10.29056/jsav.2021.12.14>. 
+2.	Abu Talib, N. A., & Doh, K. G. (2021). Static Analysis Tools Against Cross-site Scripting Vulnerabilities in Web Applications: An Analysis. Journal of Software Assessment and Valuation, 17(2), 125–142. <https://doi.org/10.29056/jsav.2021.12.14>.<br />
 (Korea Indexed Journal)
 
 3.	Abu Talib, N. A., & Doh, K. G. (2022). Run-time Detection of Cross-site Scripting: A Machine-Learning Approach Using Syntactic-Tagging N-Gram Features. International Journal of Computer Science and Security (IJCSS), 16(2), 9–27
 
-4.	Abu Talib, N. A., & Doh, K. G. (2022). An Analysis of Machine-Learning Feature-Extraction Techniques using Syntactic Tagging for Cross-site Scripting Detection. Journal of Software Assessment and Valuation, 18(1), 107–118. <https://doi.org/10.29056/jsav.2022.06.13>
+4.	Abu Talib, N. A., & Doh, K. G. (2022). An Analysis of Machine-Learning Feature-Extraction Techniques using Syntactic Tagging for Cross-site Scripting Detection. Journal of Software Assessment and Valuation, 18(1), 107–118. <https://doi.org/10.29056/jsav.2022.06.13><br />
 (Korea Indexed Journal)
 
 # Experiences
@@ -94,9 +94,3 @@ Level of Teaching: Diploma
 - Malay (Native)
 - English (Advanced, IELTS 2013, Score: 7.0)
 - Korean (Intermediate)
-
-# Strengths
-- Excellent verbal and written communication skills
-- Good management and organizational skills
-- Proficient collaborator and communicator capable of working well in both independent and group settings
-- Quick learner and open to learning new ideas
