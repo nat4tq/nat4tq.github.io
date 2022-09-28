@@ -14,16 +14,15 @@ I have recently completed Ph.D from the Department of Computer Science and Engin
 
 # Education
 
-<h3>2013 - 2022</h3>
 <b>PH.D. IN COMPUTER SCIENCE AND ENGINEERING</b><br />
 HANYANG UNIVERSITY (ERICA), SOUTH KOREA<br />
+Year: 2013 - 2022
 CGPA: 4.31 / 4.50<br />
 Ph.D. Thesis: Detecting Cross-Site Scripting Attacks by Machine-Learning-Based Text Classification Through Normalizing Input Payloads
 
-
-<h3>2009 - 2013</h3>
 <b>BACHELOR OF INFORMATION TECHNOLOGY (HONS.) IN COMPUTER SYSTEM SECURITY</b><br />
 UNIVERSITI KUALA LUMPUR - MALAYSIAN INSTITUTE OF INFORMATION TECHNOLOGY (UniKL MIIT)<br />
+Year: 2009 - 2013
 CGPA: 3.24 / 4.00<br />
 Final Year Project: Developed a Secure R&D Portal for UniKL
 
@@ -47,16 +46,16 @@ Final Year Project: Developed a Secure R&D Portal for UniKL
 
 # Experience
 
-<h3>2012 (4 MONTHS)</h3>
 <b>STUDENT/INTERN, SEMYUNG UNIVERSITY, SOUTH KOREA</b><br />
+Year: 2012 (4 MONTHS)
 Project: Learned and created Java-based applications using Spring Framework
 
-<h3>2018 (6 DAYS)</h3>
 <b>INTERN, EXNTU INC., SOUTH KOREA</b><br />
+Year: 2018 (6 DAYS)
 Project: Developer Trainee for Chatti Project (Samsung Research)
 
-<h3>2019 - 2022 (3 YEARS)</h3>
 <b>RESEARCH ASSISTANT, HANYANG UNIVERSITY, SOUTH KOREA</b>
+Year: 2019 - 2022 (3 YEARS)
 
 Projects:
 - Analyzing Static Analysis Tools Against Cross-site Scripting Vulnerabilities in Web Application, 2018
@@ -70,8 +69,8 @@ Presentations:
 - An Analysis of Dynamic Open Source Cross-site Scripting Filters as a Security Device in Web Applications
 Special Interest Group on Programming Languages (SIGPL) Winter School, February 2019
 
-<h3>2022 (9 WEEKS)</h3>
 <b>PART-TIME LECTURER, UNIVERSITI KUALA LUMPUR (MIIT)</b><br />
+Year: 2022 (9 WEEKS)
 Semester: July 2022<br />
 Subject: Principles of Information Technology<br />
 Level of Teaching: Diploma
