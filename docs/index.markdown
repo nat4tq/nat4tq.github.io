@@ -6,7 +6,6 @@ layout: default
 ---
 
 <img src="https://mega.nz/file/R4A33DCD#iDFeGpAiOsYtbBhPv3oQm238cCb1H5rQKSNTfwH7UeU">
-# About Me
 
 First Name: Nurul _Atiqah_<br />
 Last Name: Abu _Talib_<br />
