@@ -16,13 +16,13 @@ I have recently completed Ph.D from the Department of Computer Science and Engin
 
 <b>Ph.D. in Computer Science and Engineering</b><br />
 Hanyang University (ERICA), South Korea<br />
-Year: 2013 - 2022
+Year: 2013 - 2022<br />
 CGPA: 4.31 / 4.50<br />
 Ph.D. Thesis: Detecting Cross-Site Scripting Attacks by Machine-Learning-Based Text Classification Through Normalizing Input Payloads
 
 <b>Bachelor of Information Technology (HONS.) in Computer System Security</b><br />
 Universiti Kuala Lumpur - Malaysian Institute of Information Technology (UniKL MIIT)<br />
-Year: 2009 - 2013
+Year: 2009 - 2013<br />
 CGPA: 3.24 / 4.00<br />
 Final Year Project: Developed a Secure R&D Portal for UniKL
 
