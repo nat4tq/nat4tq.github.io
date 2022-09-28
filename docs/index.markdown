@@ -44,7 +44,7 @@ Final Year Project: Developed a Secure R&D Portal for UniKL
 4.	Abu Talib, N. A., & Doh, K. G. (2022). An Analysis of Machine-Learning Feature-Extraction Techniques using Syntactic Tagging for Cross-site Scripting Detection. Journal of Software Assessment and Valuation, 18(1), 107–118. <https://doi.org/10.29056/jsav.2022.06.13>
 (Korea Indexed Journal)
 
-# Experience
+# Experiences
 
 <b>STUDENT/INTERN, SEMYUNG UNIVERSITY, SOUTH KOREA</b><br />
 Year: 2012 (4 MONTHS)
