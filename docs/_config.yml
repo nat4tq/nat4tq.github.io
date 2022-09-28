@@ -23,7 +23,7 @@ author: 아티카
 email: nurul.atiqah@unikl.edu.my, atiqah_talib@yahoo.com
 description: >- # this means to ignore newlines until "baseurl:"
   Atiqah Talib's Home Page
-# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: nat4tq.github.io/ # the subpath of your site, e.g. /blog
 url: https://nat4tq.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  nat4tq
