@@ -14,14 +14,14 @@ I have recently completed Ph.D from the Department of Computer Science and Engin
 
 # Education
 
-<b>PH.D. IN COMPUTER SCIENCE AND ENGINEERING</b><br />
-HANYANG UNIVERSITY (ERICA), SOUTH KOREA<br />
+<b>Ph.D. in Computer Science and Engineering</b><br />
+Hanyang University (ERICA), South Korea<br />
 Year: 2013 - 2022
 CGPA: 4.31 / 4.50<br />
 Ph.D. Thesis: Detecting Cross-Site Scripting Attacks by Machine-Learning-Based Text Classification Through Normalizing Input Payloads
 
-<b>BACHELOR OF INFORMATION TECHNOLOGY (HONS.) IN COMPUTER SYSTEM SECURITY</b><br />
-UNIVERSITI KUALA LUMPUR - MALAYSIAN INSTITUTE OF INFORMATION TECHNOLOGY (UniKL MIIT)<br />
+<b>Bachelor of Information Technology (HONS.) in Computer System Security</b><br />
+Universiti Kuala Lumpur - Malaysian Institute of Information Technology (UniKL MIIT)<br />
 Year: 2009 - 2013
 CGPA: 3.24 / 4.00<br />
 Final Year Project: Developed a Secure R&D Portal for UniKL
@@ -46,15 +46,15 @@ Final Year Project: Developed a Secure R&D Portal for UniKL
 
 # Experiences
 
-<b>STUDENT/INTERN, SEMYUNG UNIVERSITY, SOUTH KOREA</b><br />
+<b>Student/Intern, Semyung University, South Korea</b><br />
 Year: 2012 (4 MONTHS)
 Project: Learned and created Java-based applications using Spring Framework
 
-<b>INTERN, EXNTU INC., SOUTH KOREA</b><br />
+<b>Intern, EXNTU Inc., South Korea</b><br />
 Year: 2018 (6 DAYS)
 Project: Developer Trainee for Chatti Project (Samsung Research)
 
-<b>RESEARCH ASSISTANT, HANYANG UNIVERSITY, SOUTH KOREA</b>
+<b>Research Assistant, Hanyang University, South Korea</b>
 Year: 2019 - 2022 (3 YEARS)
 
 Projects:
@@ -69,7 +69,7 @@ Presentations:
 - An Analysis of Dynamic Open Source Cross-site Scripting Filters as a Security Device in Web Applications
 Special Interest Group on Programming Languages (SIGPL) Winter School, February 2019
 
-<b>PART-TIME LECTURER, UNIVERSITI KUALA LUMPUR (MIIT)</b><br />
+<b>Part-time Lecturer, Universiti Kuala Lumpur (MIIT)</b><br />
 Year: 2022 (9 WEEKS)
 Semester: July 2022<br />
 Subject: Principles of Information Technology<br />
