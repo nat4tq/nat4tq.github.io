@@ -5,6 +5,7 @@
 layout: default
 ---
 
+<img src="https://mega.nz/file/R4A33DCD#iDFeGpAiOsYtbBhPv3oQm238cCb1H5rQKSNTfwH7UeU">
 # About Me
 
 First Name: Nurul Atiqah<br />
@@ -47,15 +48,15 @@ Final Year Project: Developed a Secure R&D Portal for UniKL
 # Experiences
 
 **Student/Intern, Semyung University, South Korea**<br />
-Year: 2012 (4 MONTHS)
-Project: Learned and created Java-based applications using Spring Framework
+Year: 2012 (4 months)<br />
+Project: Learned and created Java-based applications using Spring Framework<br />
 
 **Intern, EXNTU Inc., South Korea**<br />
-Year: 2018 (6 DAYS)
-Project: Developer Trainee for Chatti Project (Samsung Research)
+Year: 2018 (6 days)<br />
+Project: Developer Trainee for Chatti Project (Samsung Research)<br />
 
-**Research Assistant, Hanyang University, South Korea**
-Year: 2019 - 2022 (3 YEARS)
+**Research Assistant, Hanyang University, South Korea**<br />
+Year: 2019 - 2022 (3 years)<br />
 
 Projects:
 - Analyzing Static Analysis Tools Against Cross-site Scripting Vulnerabilities in Web Application, 2018
@@ -70,14 +71,14 @@ Presentations:
 Special Interest Group on Programming Languages (SIGPL) Winter School, February 2019
 
 **Part-time Lecturer, Universiti Kuala Lumpur (MIIT)**<br />
-Year: 2022 (9 WEEKS)
+Year: 2022 (9 weeks)<br />
 Semester: July 2022<br />
 Subject: Principles of Information Technology<br />
 Level of Teaching: Diploma
 
 # Skills
 
-<b>Programming</b>
+**Programming**
 - Python (Excellent)
 - PHP (Intermediate)
 - Java (Intermediate)
@@ -86,19 +87,19 @@ Level of Teaching: Diploma
 - OCaml (Beginner)
 - R (Beginner)
 
-<b>Tools and Technologies</b>
+**Tools and Technologies**
 - Microsoft Office
 - Git
 - SPSS
 - Linux and Unix
 - Windows
 
-<b>Database</b>
+**Database**
 - MySQL (Excellent)
 - PostgresSQL (Beginner)
 - Tomcat (Beginner)
 
-<b>Language</b>
+**Language**
 - Malay (Native)
 - English (Advanced, IELTS 2013, Score: 7.0)
 - Korean (Intermediate)
