@@ -14,13 +14,13 @@ I have recently completed Ph.D from the Department of Computer Science and Engin
 
 # Education
 
-<b>Ph.D. in Computer Science and Engineering</b><br />
+**Ph.D. in Computer Science and Engineering**<br />
 Hanyang University (ERICA), South Korea<br />
 Year: 2013 - 2022<br />
 CGPA: 4.31 / 4.50<br />
 Ph.D. Thesis: Detecting Cross-Site Scripting Attacks by Machine-Learning-Based Text Classification Through Normalizing Input Payloads
 
-<b>Bachelor of Information Technology (HONS.) in Computer System Security</b><br />
+**Bachelor of Information Technology (HONS.) in Computer System Security**<br />
 Universiti Kuala Lumpur - Malaysian Institute of Information Technology (UniKL MIIT)<br />
 Year: 2009 - 2013<br />
 CGPA: 3.24 / 4.00<br />
@@ -46,15 +46,15 @@ Final Year Project: Developed a Secure R&D Portal for UniKL
 
 # Experiences
 
-<b>Student/Intern, Semyung University, South Korea</b><br />
+**Student/Intern, Semyung University, South Korea**<br />
 Year: 2012 (4 MONTHS)
 Project: Learned and created Java-based applications using Spring Framework
 
-<b>Intern, EXNTU Inc., South Korea</b><br />
+**Intern, EXNTU Inc., South Korea**<br />
 Year: 2018 (6 DAYS)
 Project: Developer Trainee for Chatti Project (Samsung Research)
 
-<b>Research Assistant, Hanyang University, South Korea</b>
+**Research Assistant, Hanyang University, South Korea**
 Year: 2019 - 2022 (3 YEARS)
 
 Projects:
@@ -69,7 +69,7 @@ Presentations:
 - An Analysis of Dynamic Open Source Cross-site Scripting Filters as a Security Device in Web Applications
 Special Interest Group on Programming Languages (SIGPL) Winter School, February 2019
 
-<b>Part-time Lecturer, Universiti Kuala Lumpur (MIIT)</b><br />
+**Part-time Lecturer, Universiti Kuala Lumpur (MIIT)**<br />
 Year: 2022 (9 WEEKS)
 Semester: July 2022<br />
 Subject: Principles of Information Technology<br />
