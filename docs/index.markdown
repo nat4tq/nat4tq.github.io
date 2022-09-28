@@ -5,8 +5,6 @@
 layout: default
 ---
 
-<img src="https://mega.nz/file/R4A33DCD#iDFeGpAiOsYtbBhPv3oQm238cCb1H5rQKSNTfwH7UeU">
-
 First Name: Nurul **Atiqah**<br />
 Last Name: Abu **Talib**<br />
 
