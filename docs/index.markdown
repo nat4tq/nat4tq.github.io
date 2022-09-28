@@ -4,6 +4,7 @@
 
 layout: default
 ---
+![nat](/images/2022-09-28 22.29.25.jpg)
 
 First Name: Nurul **Atiqah**<br />
 Last Name: Abu **Talib**<br />
