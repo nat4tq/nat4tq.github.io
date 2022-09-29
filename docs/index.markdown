@@ -11,6 +11,8 @@ Last Name: Abu **Talib**<br />
 
 I have recently completed Ph.D from the Department of Computer Science and Engineering, Hanyang University at Ansan, South Korea. My field of study is Computer Software Security. I am currently working as a part-time lecturer at UniKL MIIT. 
 
+More <a href="/about">about</a> me.
+
 
 # Interests
 - Software Security
