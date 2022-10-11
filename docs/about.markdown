@@ -62,15 +62,15 @@ Presentations:
 Special Interest Group on Programming Languages (SIGPL) Winter School, February 2019
 
 **Part-time Lecturer, Universiti Kuala Lumpur (MIIT)**<br />
-Year: 2022 (Current)<br />
-Semester: October 2022<br />
-Subject: PHP Web Programming<br />
-Level of Teaching: Diploma
-
-**Part-time Lecturer, Universiti Kuala Lumpur (MIIT)**<br />
 Year: 2022 (9 weeks)<br />
 Semester: July 2022<br />
 Subject: Principles of Information Technology<br />
+Level of Teaching: Diploma
+
+**Part-time Lecturer, Universiti Kuala Lumpur (MIIT)**<br />
+Year: 2022 (Current)<br />
+Semester: October 2022<br />
+Subject: PHP Web Programming<br />
 Level of Teaching: Diploma
 
 # Skills
